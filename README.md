@@ -41,7 +41,11 @@ python -m venv venv
 venv\Scripts\activate 
 
 Instale as dependências:
+
 pip install -r requirements.txt
+pip install streamlit
+pip install pandas scikit-learn matplotlib seaborn
+
 
 Rode o aplicativo:
 streamlit run app.py
