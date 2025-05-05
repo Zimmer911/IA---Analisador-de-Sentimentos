@@ -1,0 +1,102 @@
+frase,sentimento
+"Amei esse produto, muito bom!,",Positivo
+"O filme foi péssimo, não gostei.,",Negativo
+"É mediano, esperava mais.,",Neutro
+"Excelente qualidade, parabéns.,",Positivo
+"Horrível, perdi meu tempo.,",Negativo
+"Não é tudo isso que dizem.,",Negativo
+"Gostei bastante, recomendo!,",Positivo
+"Foi uma decepção total.,",Negativo
+"Mais ou menos, podia ser melhor.,",Neutro
+"Fantástico, superou as expectativas!,",Positivo
+"O atendimento foi ótimo.,",Positivo
+"O atendimento foi horrível.,",Negativo
+"Satisfatório, mas pode melhorar.,",Neutro
+"Me decepcionei com o serviço.,",Negativo
+"A comida estava deliciosa!,",Positivo
+"A comida estava fria e sem sabor.,",Positivo
+"O ambiente é aconchegante.,",Positivo
+"Achei o local muito barulhento.,",Negativo
+"Tudo foi perfeito!,",Positivo
+"Não recomendo, experiência ruim.,",Negativo
+"Serviço nota 10!,",Positivo
+"Atendimento deixou a desejar.,",Negativo
+"Muito ruim, não volto mais.,",Negativo
+"Valeu cada centavo!,",Positivo
+"Me arrependi de comprar.,",Negativo
+"Produto de alta qualidade.,",Positivo
+"O produto veio quebrado.,",Negativo
+"Gostei do design.,",Positivo
+"Não funcionou como prometido.,",Negativo
+"Entrega rápida e eficiente.,",Positivo
+"Demorou demais para chegar.,",Negativo
+"Produto ótimo pelo preço.,",Positivo
+"Qualidade inferior ao esperado.,",Negativo
+"Surpreendente, adorei!,",Positivo
+"Veio com defeito.,",Negativo
+"Me surpreendeu positivamente.,",Positivo
+"Me causou frustração.,",Negativo
+"Muito feliz com a compra.,",Positivo
+"Comprei e me arrependi.,",Negativo
+"Melhor do que eu imaginava.,",Positivo
+"Pior compra do ano.,",Negativo
+"Super recomendo!,",Positivo
+"Nunca mais compro aqui.,",Negativo
+"Fiquei satisfeito.,",Positivo
+"Fiquei muito insatisfeito.,",Negativo
+"Nota mil!,",Positivo
+"Nota zero.,",Negativo
+"Aprovado!,",Positivo
+"Reprovado!,",Negativo
+"Perfeito!,",Positivo
+"Terrível!,",Negativo
+"Gostei,",Positivo
+"Não gostei,",Negativo
+"Foi bom,",Positivo
+"Foi ruim,",Negativo
+"Legal,",Positivo
+"Chato,",Negativo
+"Divertido,",Positivo
+"Entediante,",Negativo
+"Maravilhoso,",Positivo
+"Desagradável,",Negativo
+"Top,",Positivo
+"Lixo,",Negativo
+"Interessante,",Positivo
+"Sem graça,",Negativo
+"Fenomenal,",Positivo
+"Decepcionante,",Negativo
+"Espetacular,",Positivo
+"Fraco,",Negativo
+"Apaixonante,",Positivo
+"Ruim,",Negativo
+"Muito bom,",Positivo
+"Muito ruim,",Negativo
+"Surpreendente,",Positivo
+"Horrível,",Negativo
+"Agradável,",Positivo
+"Desastroso,",Negativo
+"Encantador,",Positivo
+"Péssimo,",Negativo
+"Incrível,",Positivo
+"Insatisfatório,",Negativo
+"Excelente,",Positivo
+"Razoável,",Negativo
+"Maravilha,",Positivo
+"Não vale a pena,",Negativo
+"Top demais,",Positivo
+"Muito chato,",Negativo
+"Show,",Positivo
+"Sem qualidade,",Negativo
+"Gostei bastante,",Positivo
+"Detestei,",Negativo
+"Ótimo,",Positivo
+"Ruim demais,",Negativo
+"Bom,",Positivo
+"Terrível experiência,",Negativo
+"Vale a pena,",Positivo
+"Não presta,",Negativo
+"Bom demais,",Positivo
+"Muito decepcionante,",Negativo
+"Amei,",Positivo
+Arrependido,Negativo
